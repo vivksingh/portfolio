@@ -58,7 +58,7 @@ const Footer: React.FC = () => {
           
           <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-gray-500">
-              &copy; {currentYear} John Developer. All rights reserved.
+              &copy; {currentYear}All rights reserved.
             </p>
             
             <nav className="mt-4 md:mt-0">
