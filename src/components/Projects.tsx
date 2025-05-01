@@ -43,8 +43,8 @@ const Projects: React.FC = () => {
       description: 'A flexible game development framework to create custom game mechanics and controls. Optimized rendering pipeline, reducing frame lag by 15%.',
       image: 'https://images.pexels.com/photos/7360388/pexels-photo-7360388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       technologies: ['JavaScript', 'HTML5 Canvas', 'JSON', 'Object-Oriented Design'],
-      githubUrl: 'https://github.com',
-      liveUrl: 'https://example.com',
+      githubUrl: 'https://github.com/vivksingh/pb.js',
+      liveUrl: 'https://pb-js-demo.netlify.app/',
       featured: true
     },
     {
@@ -53,7 +53,7 @@ const Projects: React.FC = () => {
       description: 'A secure donation platform with JWT authentication and ownership tracking. Reduced API response time by 25% using optimized SQL queries.',
       image: 'https://images.pexels.com/photos/6994985/pexels-photo-6994985.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       technologies: ['Spring Boot', 'React', 'Tailwind CSS', 'PostgreSQL', 'JWT'],
-      githubUrl: 'https://github.com',
+      githubUrl: 'https://github.com/vivksingh/DonoDot',
       featured: true
     },
     {
@@ -62,8 +62,8 @@ const Projects: React.FC = () => {
       description: 'A Telegram-integrated chat bot using Gemini AI to translate messages into English. Adopted by 50+ students for improved accessibility.',
       image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       technologies: ['Python', 'Gemini AI', 'Telegram API', 'Natural Language Processing'],
-      githubUrl: 'https://github.com',
-      liveUrl: 'https://example.com',
+      githubUrl: 'https://github.com/vivksingh/AI-Telugu-Translator-bot',
+      liveUrl: 'https://github.com/vivksingh/AI-Telugu-Translator-bot',
       featured: true
     }
   ];

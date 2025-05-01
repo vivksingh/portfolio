@@ -41,7 +41,7 @@ const About: React.FC = () => {
                 Ranked in the top 15% globally on LeetCode, with a 3-star CodeChef rating. Looking for an SWE role to leverage my problem-solving skills and software development expertise in a fast-paced environment.
               </p>
               <p className="text-gray-700 dark:text-gray-300">
-                Currently pursuing B.Tech in Computer Science with specialization in Data Science at KL University, maintaining a CGPA of 8.66.
+                Currently pursuing B.Tech in Computer Science with specialization in Data Science at KL University, maintaining a CGPA of 8.7.
               </p>
             </div>
             
@@ -50,7 +50,7 @@ const About: React.FC = () => {
               <ul className="space-y-3">
                 <li className="flex">
                   <span className="text-blue-600 dark:text-blue-400 font-medium w-32">Location:</span>
-                  <span className="text-gray-700 dark:text-gray-300">Vijayawada, Andhra Pradesh</span>
+                  <span className="text-gray-700 dark:text-gray-300">Ghaziabad, Uttar Pradesh</span>
                 </li>
                 <li className="flex">
                   <span className="text-blue-600 dark:text-blue-400 font-medium w-32">Education:</span>
@@ -66,7 +66,7 @@ const About: React.FC = () => {
                 </li>
                 <li className="flex">
                   <span className="text-blue-600 dark:text-blue-400 font-medium w-32">CGPA:</span>
-                  <span className="text-gray-700 dark:text-gray-300">8.66</span>
+                  <span className="text-gray-700 dark:text-gray-300">8.7</span>
                 </li>
               </ul>
             </div>
